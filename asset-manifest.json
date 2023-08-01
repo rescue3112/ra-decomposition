@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra-decomposition/static/css/main.e6c13ad2.css",
+    "main.js": "/ra-decomposition/static/js/main.bd85c25b.js",
+    "static/js/787.16510549.chunk.js": "/ra-decomposition/static/js/787.16510549.chunk.js",
+    "index.html": "/ra-decomposition/index.html",
+    "main.e6c13ad2.css.map": "/ra-decomposition/static/css/main.e6c13ad2.css.map",
+    "main.bd85c25b.js.map": "/ra-decomposition/static/js/main.bd85c25b.js.map",
+    "787.16510549.chunk.js.map": "/ra-decomposition/static/js/787.16510549.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bd85c25b.js"
+  ]
+}

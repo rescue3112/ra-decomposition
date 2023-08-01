@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/9jipirhqoim3cr73/branch/master?svg=true)](https://ci.appveyor.com/project/rescue3112/ra-decomposition/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/9jipirhqoim3cr73?svg=true)](https://ci.appveyor.com/project/rescue3112/ra-decomposition)
 
 https://rescue3112.github.io/ra-decomposition/
 
